@@ -1,0 +1,2 @@
+Some text 
+Some text for file 2
